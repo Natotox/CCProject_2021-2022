@@ -10,3 +10,4 @@ gem 'jekyll', '4.1'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'kramdown-parser-gfm'
 gem 'rake'
+gem 'wax_tasks'
